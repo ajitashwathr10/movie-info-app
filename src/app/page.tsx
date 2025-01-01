@@ -1,6 +1,8 @@
+"use client";
+
 import {useState} from 'react';
-import Search from '../components/search';
-import MovieCard from '../components/movie-card';
+import Search from '../components/Search';
+import MovieCard from '../components/MovieCard';
 import {Movie} from '..types/movie';
 
 export default function Home() {
