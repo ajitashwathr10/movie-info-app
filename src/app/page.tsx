@@ -1,6 +1,6 @@
 "use client"
 
-import {use, useState} from 'react';
+import {useState} from 'react';
 import Search from '@/components/Search';
 import MovieCard from '@/components/MovieCard';
 import {Movie} from '@/types/movie';
